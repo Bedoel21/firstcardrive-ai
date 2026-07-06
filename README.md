@@ -1,5 +1,8 @@
 # 🚗 FirstCarDrive AI: Smart Recommendation Agent
 
+## 📸 Tampilan Aplikasi
+![Pratinjau Aplikasi FirstCarDrive AI](ss_firstcardrive-ai.png)
+
 FirstCarDrive AI adalah aplikasi asisten cerdas berbasis Generative AI yang dirancang khusus untuk membantu pembeli mobil pertama (*first-time buyer*) di Indonesia menemukan kendaraan ideal mereka. Aplikasi ini mengintegrasikan antarmuka interaktif Streamlit dengan Gemini API sebagai mesin penalaran utama (*Reasoning Engine*) dan Exa API untuk pencarian web berbasis *neural* secara *real-time*.
 
 ## 🌟 Fitur Utama
@@ -19,9 +22,5 @@ Aplikasi ini menggunakan kerangka kerja modular dengan alur sebagai berikut:
 
 > 🌐 **Aplikasi Live URL:** [firstcardrive-ai.streamlit.app](https://firstcardrive-ai.streamlit.app/)
 
-## 🚀 Cara Menjalankan Secara Lokal
 
-### 1. Kloning Repositori
-```bash
-git clone [https://github.com/Bedoel21/firstcardrive-ai.git](https://github.com/Bedoel21/firstcardrive-ai.git)
-cd firstcardrive-ai
+
