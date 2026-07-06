@@ -15,6 +15,10 @@ Aplikasi ini menggunakan kerangka kerja modular dengan alur sebagai berikut:
 3. Jika membutuhkan data eksternal, Gemini secara otomatis memicu fungsi **Function Calling** menuju **Exa API**.
 4. Hasil pencarian web digabungkan ke dalam konteks penalaran untuk menghasilkan output rekomendasi terstruktur berformat Markdown estetik (Tabel, Blockquote, List).
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://firstcardrive-ai.streamlit.app/)
+
+> 🌐 **Aplikasi Live URL:** [firstcardrive-ai.streamlit.app](https://firstcardrive-ai.streamlit.app/)
+
 ## 🚀 Cara Menjalankan Secara Lokal
 
 ### 1. Kloning Repositori
